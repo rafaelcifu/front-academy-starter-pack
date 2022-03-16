@@ -1,4 +1,4 @@
-.menuitems-container {
+.links-container {
     display: flex;
     font-weight: 400;
     color: #ffff;
@@ -6,11 +6,11 @@
     align-items: center;
 }
 
-.menuitems-container .menuitem {
+.links-container .link {
     display: flex;
     padding: 0px 20px 0px 20px;
 }
 
-.menuitems-container:hover {
+.links-container .link:hover {
     color: #0e98fa;
 }

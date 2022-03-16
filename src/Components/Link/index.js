@@ -1,12 +1,12 @@
 import './styles.css';
 
-export default function MenuItems(props) {
+export default function Link(props) {
   const children = props.children;
  
   return (
-      <div className="menuitems-container">
+      <div className="links-container">
       
-          <div className="menuitem">
+          <div className="link">
             {children}
           </div>
     
