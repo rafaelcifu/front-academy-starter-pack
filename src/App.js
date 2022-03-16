@@ -1,15 +1,13 @@
 import Menu from "./Components/Menu";
 
-function App() {
+export default function App() {
   return (
 
-        <div>
-            <div>
-              <Menu />
-            </div>           
-        </div>
+       <div>
+          <div>
+             <Menu />
+          </div>           
+      </div>
 
    );
 }
-
-export default App;

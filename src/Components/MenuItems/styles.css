@@ -1,0 +1,16 @@
+.menuitems-container {
+    display: flex;
+    font-weight: 400;
+    color: #ffff;
+    cursor: pointer;
+    align-items: center;
+}
+
+.menuitems-container .menuitem {
+    display: flex;
+    padding: 0px 20px 0px 20px;
+}
+
+.menuitems-container:hover {
+    color: #0e98fa;
+}

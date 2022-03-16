@@ -19,6 +19,14 @@
     padding: 28px 15px 28px 15px;
 }
 
+.menu-container .menu-button {
+    display: flex;
+}
+
+.menu-container .menu-items {
+    display: flex;
+}
+
 body {
     background-color: rgb(26, 26, 26);
 }

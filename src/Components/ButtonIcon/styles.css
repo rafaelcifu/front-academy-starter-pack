@@ -1,0 +1,20 @@
+.buttonicon-container {
+    display: flex;
+    font-weight: 400;
+    color: #ffff;
+    cursor: pointer;
+    align-items: center;
+}
+
+.buttonicon-container .buttonicon-icon {
+    width: 12px;
+    padding-right: 5px;
+}
+
+.buttonicon-container:hover {
+    color: #0e98fa;
+}
+
+.buttonicon-container .buttonicon-icon:hover {
+
+}

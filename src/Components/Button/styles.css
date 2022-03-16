@@ -1,0 +1,14 @@
+.button-container .button {
+    color: #ffff;
+    font-weight: 600;
+    padding: 15px 60px 15px 60px;
+    background-color: #0289ea;
+    cursor: pointer;
+    margin-left: 30px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.button-container .button:hover {
+    background-color: #0e98fa;
+}
